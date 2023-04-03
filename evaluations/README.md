@@ -1,4 +1,4 @@
-### The structure of zip file as following:
+### The structure of zip file is as following:
 
 <img width="1206" alt="image" src="https://user-images.githubusercontent.com/44132720/229605146-2f7cbf14-c3f1-4da1-85df-f6e25a6521da.png">
 
