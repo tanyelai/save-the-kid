@@ -9,5 +9,5 @@ We provide the complete [src/main.ipynb](https://github.com/toygarr/save-the-kid
 Figures are generated in both .pdf and .png formats.
 
 * In each training case, file names are given as: *tumorTypes_randomState*
-* All cases have entire confusion matrices for eight different ML models, and are given as: *tumorTypes_matrix*
-* All cases have entire feature importance figures for eight different ML models, and are given as: *tumorTypes_FeatureImportances* or *tumorTypes_impTable* depending on if the model has embedded feature_importances_ function or requires additional function.
+* All cases have entire confusion matrices for eight different ML models, and are given as: *tumorTypes_modelName_matrix*
+* All cases have entire feature importance figures for eight different ML models, and are given as: *tumorTypes_modelName_FeatureImportances* or *tumorTypes_modelName_impTable* depending on if the model has embedded feature_importances_ function or requires additional function.
