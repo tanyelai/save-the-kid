@@ -27,8 +27,6 @@ The source codes, EDA outputs and entire ML evaluation results of the presented 
 *Preprint:*
 Tanyel, Toygar and Chandran, Nadarajan and Duc, Nguyen Minh and Keserci, Bilgin, Deciphering Machine Learning Decisions for Distinguishing between Posterior  Fossa Tumor Types Using MRI Features: What Does the Data Tell Us?. Available at SSRN: https://ssrn.com/abstract=4421493 or http://dx.doi.org/10.2139/ssrn.4421493
 
-Submitted to [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine).
-
 
 #### Examples from Analyses:
 
