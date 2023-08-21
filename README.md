@@ -22,10 +22,22 @@ The source codes, EDA outputs and entire ML evaluation results of the presented 
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold">evaluations.zip</span>
 </pre>
 
-### Citation
+### Citation - *BibTeX:*
 
-*Preprint:*
-Tanyel, Toygar and Chandran, Nadarajan and Duc, Nguyen Minh and Keserci, Bilgin, Deciphering Machine Learning Decisions for Distinguishing between Posterior  Fossa Tumor Types Using MRI Features: What Does the Data Tell Us?. Available at SSRN: https://ssrn.com/abstract=4421493 or http://dx.doi.org/10.2139/ssrn.4421493
+```
+@article{tanyel2023deciphering,
+  title={Deciphering Machine Learning Decisions to Distinguish between Posterior Fossa Tumor Types Using MRI Features: What Do the Data Tell Us?},
+  author={Tanyel, Toygar and Nadarajan, Chandran and Duc, Nguyen Minh and Keserci, Bilgin},
+  journal={Cancers},
+  volume={15},
+  number={16},
+  pages={4015},
+  year={2023},
+  publisher={MDPI}
+}
+
+doi: https://doi.org/10.3390/cancers15164015
+```
 
 
 #### Examples from Analyses:
