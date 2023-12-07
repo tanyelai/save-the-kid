@@ -1,4 +1,4 @@
-### Deciphering Machine Learning Decisions for Distinguishing Between Posterior Fossa Tumor Types using MRI Features: What Does the Data Tell Us?
+### Deciphering Machine Learning Decisions to Distinguish between Posterior Fossa Tumor Types Using MRI Features: What Do the Data Tell Us?
 
 The clinical challenges posed by pediatric brain tumors are significant because of their diverse characteristics and overlapping imaging features. In order to address this issue, a growing body of research has shifted towards utilizing machine learning methodologies, and ML models now have the ability to make decisions that carry risk on our behalf, but because these models are complex, interpreting their decisions can be difficult, and it is not always possible for humans to control them. As we proposed in this paper, pre-analysis of data during the development of a machine learning model can improve the interpretability of the results. 
 
